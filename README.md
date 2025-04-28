@@ -15,3 +15,18 @@ The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhe
 This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
 
 ## Question 1
+What is the overall trend in age-adjusted death rates for Heart disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?
+
+### Model 
+
+### Importance 
+Heart disease has been a leading cause of death in the U.S. for decades, contributing to significant morbidity and mortality. Understanding how death rates have changed over time can reveal the effectiveness of public health interventions, such as smoking cessation programs, improved access to healthcare, and advancements in cardiovascular treatments. States with the largest decreases may serve as models for successful interventions.
+
+Lifestyle factors like diet, exercise, and smoking vary culturally across states. For example, southern states (e.g., Mississippi) often have higher rates due to cultural dietary habits (e.g., high-fat diets). Understanding changes can shed light on how cultural shifts or interventions have impacted health outcomes.
+
+### Manipulations 
+
+### Analysis 
+The heat map shown displayes a clear trend, in 1999 most states lie closer to blue whilst in 2017 most states have shifted towards red indicating a general decrease in heart disease rates over this 18 year period. 
+
+In 1999 Missisipi had the highest adjusted death rate at 347.4 however in 2017 that number had sunk down to 237.2. Similarly 
