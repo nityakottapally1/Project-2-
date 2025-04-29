@@ -78,7 +78,7 @@ The heat maps reveal a clear trend:
 - By 2017, this dropped significantly to **237.2**, showing progress though still among the highest in the nation
 
 While both the graphs showed a overall decrease in Adjusted Death rates, due to increased access to healthcare (such as vaccines, national health awareness campaigns), however by 
-analyzing these specific grpahs we can examine whether certain states exhibited signifcant changes allowing for us to theroize and examine their actiosn taken towards decreasing heart disease related deaths. 
+analyzing these specific grpahs we can examine whether certain states exhibited significant changes allowing for us to theroize and examine their actions taken towards decreasing heart disease related deaths. 
 This consistent decline reflects both medical progress and targeted public health efforts, although regional disparities remain evident.
 
 ---
