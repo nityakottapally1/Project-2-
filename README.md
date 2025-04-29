@@ -1,4 +1,4 @@
-deswaz# Leading Causes of Death: United States 
+# Leading Causes of Death: United States 
 
 ## Group 2
 1. Alicia Jarvis - [aliciajarvis-ai](https://github.com/aliciajarvis-ai)
