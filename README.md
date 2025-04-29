@@ -50,7 +50,6 @@ With nearly **113,000 records spanning 19 years**, this dataset offers a robust 
 ### Importance 
 Heart disease has been a leading cause of death in the U.S. for decades, contributing to significant morbidity and mortality. Understanding how death rates have changed over time can reveal the effectiveness of public health interventions, such as smoking cessation programs, improved access to healthcare, and advancements in cardiovascular treatments. States with the largest decreases may serve as models for successful interventions.
 
-Lifestyle factors like diet, exercise, and smoking vary culturally across states. For example, southern states (e.g., Mississippi) often have higher rates due to cultural dietary habits (e.g., high-fat diets). Understanding changes can shed light on how cultural shifts or interventions have impacted health outcomes.
 
 ---
 
@@ -71,6 +70,7 @@ This allowed us to compare state-level trends across the two years.
 
 ### Analysis
 
+The heat map colors range from red to blue, with red being the lower end from 100 to blue being the higher end 350 of the adjusted heart rate.
 The heat maps reveal a clear trend:  
 
 
