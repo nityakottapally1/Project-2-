@@ -66,19 +66,19 @@ This allowed us to compare state-level trends across the two years.
 
 ---
 
+
+
 ### Analysis
 
 The heat maps reveal a clear trend:  
 
-- In **1999**, most states appeared in darker blue, indicating **higher death rates**  
-- By **2017**, many states shifted toward lighter shades, suggesting a **general decrease** in heart disease mortality  
 
-**Example:**  
-- **Mississippi** had the highest age-adjusted death rate in 1999 at **347.4**  
-- By 2017, this dropped significantly to **237.2**, showing progress though still among the highest in the nation
+- In **1999**, most states appeared in darker blue, indicating **higher death rates**  
+- By **2017**, many states shifted toward red, suggesting a **general decrease** in heart disease mortality  
+- Despite overall decline, **southern states still show elevated rates**, indicating persistent regional disparities likely tied to diet, poverty, and healthcare access.
+
 
 While both the graphs showed a overall decrease in Adjusted Death rates, due to increased access to healthcare (such as vaccines, national health awareness campaigns), however by 
-analyzing these specific grpahs we can examine whether certain states exhibited significant changes allowing for us to theroize and examine their actions taken towards decreasing heart disease related deaths. 
-This consistent decline reflects both medical progress and targeted public health efforts, although regional disparities remain evident.
+analyzing these specific graphs  we can examine whether certain regions exhibited larger levels of heart disease related deaths allowing for further examination of the root causes. Such as the impact of diet, poverty, and other factors.  
 
 ---
