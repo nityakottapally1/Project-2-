@@ -36,7 +36,6 @@ With nearly **113,000 records spanning 19 years**, this dataset offers a robust 
 
 ### Notes
 - The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhelming data set for analysis. Every row corresponds to a particular cause of death in a particular state and year, while the columns offer precise metrics. 
-- The dataset is sourced from the National Center for Health Statistics (NCHS) and covers leading causes of death in the U.S. from 1999 to 2017.
 - This dataset was used to analyze age-adjusted death rates for Heart disease in 2017, comparing northern and southern U.S. states.
 
 
