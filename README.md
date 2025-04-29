@@ -44,6 +44,7 @@ With nearly **113,000 records spanning 19 years**, this dataset offers a robust 
 ## Question 1
 **What is the overall trend in age-adjusted death rates for Heart Disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?**
 
+---
 ### Model 
 ![image](https://github.com/user-attachments/assets/a703caa2-a910-4a02-9f63-d5aa8f835169)
 ---
@@ -87,6 +88,7 @@ analyzing these specific graphs  we can examine whether certain regions exhibite
 ## Question 2
 **Is there a statistically significant correlation between death rates from diabetes and heart disease across states with the highest mortality for each?**
 
+---
 ### Model
 
 ---
