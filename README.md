@@ -58,9 +58,10 @@ Lifestyle factors like diet, exercise, and smoking vary culturally across states
 
 We generated heat maps for 1999 and 2017 using the following filters:
 
-- **Cause Name**: Filtered for `"Heart Disease"` (the leading cause with the highest age-adjusted death rate)
+- **Cause Name**: Filtered for `"Heart Disease"` (the leading cause with the highest age-adjusted death rate). Also used in Marks, to set a blue to red color scheme. 
 - **Year**: Filtered for 1999 and 2017
-- **State**: Removed entries for `"United States"` to focus on individual state comparisons
+- **State**: Removed entries for `"United States"` to focus on individual state comparisons. Also used in Marks, to set up the heat map by state. 
+
 
 This allowed us to compare state-level trends across the two years.
 
@@ -95,6 +96,12 @@ analyzing these specific graphs  we can examine whether certain regions exhibite
 ---
 
 ### Manipulations
+#### Calculated Fields 
+| **Calculated Field Name**       | **Equation**                                                                 | **Explanation**                                                                                         |
+|----------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Average Diabetes Rate            | `IF [Cause Name] = "Diabetes" THEN [Age-adjusted Death Rate] END`           | Filters records to include only those with "Diabetes" as the cause, then returns the corresponding age-adjusted death rate. Used to calculate the average diabetes mortality rate. |
+| Average Heart Disease Rate       | `IF [Cause Name] = "Heart disease" THEN [Age-adjusted Death Rate] END`      | Filters records to include only those with "Heart disease" as the cause, then returns the corresponding age-adjusted death rate. Used to calculate the average heart disease mortality rate. |
+
 
 ---
 
