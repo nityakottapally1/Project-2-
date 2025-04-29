@@ -6,12 +6,12 @@
 3. Tejas Panicker - [Tejas5012](https://github.com/Tejas5012)
 4. Nitya Kottapally - [nityakottapally1](https://github.com/nityakottapally1)
 5. Aman Sathani - [amansathani](https://github.com/amansathani)
-
+---
 ## Why We Picked this Database 
 We explored the "NCHS - Leading Causes of Death: United States" data set to understand mortality trends across the country. The data set was obtained from Data.gov, provided by the CDC's National Center for Health Statistics (NCHS) via the National Vital Statistics System. It combines information from resident death certificates in all 50 states and the District of Columbia from 1999 to 2017 and conforms to ICD-10 criteria for cause-of-death coding.
 
 This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
-
+---
 ## Data Set Columns
 
 | Column Name              | Data Type | Description                                                                                       |
@@ -29,13 +29,13 @@ This data enables us to call attention to significant health issues, including H
 - This dataset was used to analyze age-adjusted death rates for Heart disease in 2017, comparing northern and southern U.S. states.
 
 
-
+---
 ## Question 1
 What is the overall trend in age-adjusted death rates for Heart disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?
 
 ### Model 
 ![image](https://github.com/user-attachments/assets/a703caa2-a910-4a02-9f63-d5aa8f835169)
-
+---
 ### Importance 
 Heart disease has been a leading cause of death in the U.S. for decades, contributing to significant morbidity and mortality. Understanding how death rates have changed over time can reveal the effectiveness of public health interventions, such as smoking cessation programs, improved access to healthcare, and advancements in cardiovascular treatments. States with the largest decreases may serve as models for successful interventions.
 
