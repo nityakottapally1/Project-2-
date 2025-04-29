@@ -26,7 +26,7 @@ Heart disease has been a leading cause of death in the U.S. for decades, contrib
 Lifestyle factors like diet, exercise, and smoking vary culturally across states. For example, southern states (e.g., Mississippi) often have higher rates due to cultural dietary habits (e.g., high-fat diets). Understanding changes can shed light on how cultural shifts or interventions have impacted health outcomes.
 
 ### Manipulations 
-For both the 1999 and 2017 map we manipulated the georgrphical heta mpa using the following actions. We used the Cause Name(a string with a general cause category) to filter for Heart Disease which was the highest Age Adjusted Death Rate in both 1999 and 2017. Futhermore we filtered for 2017 using Year. Furthermore we filtered out the overal United States using the State feature, to compare indivudal satte rates. 
+For both the 1999 and 2017 map we manipulated the georgrphical heta mpa using the following actions. We used the Cause Name(a string with a general cause category) to filter for Heart Disease which was the highest Age Adjusted Death Rate in both 1999 and 2017. Futhermore we filtered for 2017 using Year. Furthermore we filtered out the overal United States using the State feature, to compare individual state rates. 
 ### Analysis  
 The heat map shown displayes a clear trend, in 1999 most states lie closer to blue whilst in 2017 most states have shifted towards red indicating a general decrease in heart disease rates over this 18 year period. 
 
