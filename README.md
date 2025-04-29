@@ -7,10 +7,20 @@
 4. Nitya Kottapally - [nityakottapally1](https://github.com/nityakottapally1)
 5. Aman Sathani - [amansathani](https://github.com/amansathani)
 ---
-## Why We Picked this Database 
-We explored the "NCHS - Leading Causes of Death: United States" data set to understand mortality trends across the country. The data set was obtained from Data.gov, provided by the CDC's National Center for Health Statistics (NCHS) via the National Vital Statistics System. It combines information from resident death certificates in all 50 states and the District of Columbia from 1999 to 2017 and conforms to ICD-10 criteria for cause-of-death coding.
+## Why We Picked This Database
 
-This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
+We selected the **"NCHS - Leading Causes of Death: United States"** dataset to explore mortality trends across the U.S. The dataset was sourced from [Data.gov](https://data.gov) and provided by the CDC’s **National Center for Health Statistics (NCHS)** via the **National Vital Statistics System**.
+
+This dataset aggregates information from resident death certificates across all 50 states and the District of Columbia, covering the years **1999 to 2017**. It adheres to **ICD-10** criteria for cause-of-death classification, ensuring consistent and standardized reporting.
+
+Our decision was guided by the following motivations:
+
+- To **highlight major health concerns** such as heart disease and cancer.
+- To **enable data-driven analysis** by uncovering mortality trends over time.
+- To **create an interactive Tableau dashboard** that helps visualize key insights, such as the leading causes of death in 2017.
+
+With nearly **113,000 records spanning 19 years**, this dataset offers a robust foundation for understanding how causes of death have evolved nationwide. Ultimately, our goal was to make these insights more accessible and actionable for public health discussions and decision-making.
+
 
 ---
 ## Data Set Columns
