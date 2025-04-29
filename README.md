@@ -82,3 +82,31 @@ While both the graphs showed a overall decrease in Adjusted Death rates, due to 
 analyzing these specific graphs  we can examine whether certain regions exhibited larger levels of heart disease related deaths allowing for further examination of the root causes. Such as the impact of diet, poverty, and other factors.  
 
 ---
+
+## Question 2
+**Is there a statistically significant correlation between death rates from diabetes and heart disease across states with the highest mortality for each?**
+
+### Model
+![Heart vs Diabetes Correlation Plot](images/diabetes_heart_scatter.png)
+
+---
+
+### Importance
+
+---
+
+### Manipulations
+
+---
+
+### Analysis
+
+---
+### Tableau Package 
+
+---
+
+## References
+
+
+
