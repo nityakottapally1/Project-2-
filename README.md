@@ -67,12 +67,8 @@ The heat maps reveal a clear trend:
 - **Mississippi** had the highest age-adjusted death rate in 1999 at **347.4**  
 - By 2017, this dropped significantly to **237.2**, showing progress though still among the highest in the nation
 
+While both the graphs showed a overall decrease in Adjusted Death rates, due to increased access to healthcare (such as vaccines, national health awareness campaigns), however by 
+analyzing these specific grpahs we can examine whether certain states exhibited signifcant changes allowing for us to theroize and examine their actiosn taken towards decreasing heart disease related deaths. 
 This consistent decline reflects both medical progress and targeted public health efforts, although regional disparities remain evident.
 
 ---
-### Manipulations 
-For both the 1999 and 2017 map we manipulated the georgrphical heta mpa using the following actions. We used the Cause Name(a string with a general cause category) to filter for Heart Disease which was the highest Age Adjusted Death Rate in both 1999 and 2017. Futhermore we filtered for 2017 using Year. Furthermore we filtered out the overal United States using the State feature, to compare individual state rates. 
-### Analysis  
-The heat map shown displayes a clear trend, in 1999 most states lie closer to blue whilst in 2017 most states have shifted towards red indicating a general decrease in heart disease rates over this 18 year period. 
-
-In 1999 Missisipi had the highest adjusted death rate at 347.4 however in 2017 that number had sunk down to 237.2. Similarly 
