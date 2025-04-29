@@ -14,6 +14,24 @@ The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhe
 
 This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
 
+# NCHS - Leading Causes of Death: United States Dataset Columns
+
+The following table describes the columns in the "NCHS - Leading Causes of Death: United States" dataset used for analyzing Heart disease death rates.
+
+| Column Name             | Data Type | Description                                                                 |
+|-------------------------|----------- \n|-----------|-----------------------------------------------------------------------------|
+| Year                    | Integer   | The year of the data observation (e.g., 2017).                              |
+| 113 Cause Name          | String    | Detailed classification of the cause of death (e.g., "Diseases of heart (I00-I09,I11,I13,I20-I51)"). |
+| Cause Name              | String    | Simplified cause of death (e.g., "Heart disease").                         |
+| State                   | String    | Geographic location, either a U.S. state or "United States" (e.g., "Alabama"). |
+| Deaths                  | Integer   | Raw number of deaths for the cause in that state and year (e.g., 12345).   |
+| Age-adjusted Death Rate | Float     | Death rate per 100,000 population, adjusted for age distribution (e.g., 277.1). |
+
+## Notes
+- The dataset is sourced from the National Center for Health Statistics (NCHS) and covers leading causes of death in the U.S. from 1999 to 2017.
+- This dataset was used to analyze age-adjusted death rates for Heart disease in 2017, comparing northern and southern U.S. states.
+
+
 ## Question 1
 What is the overall trend in age-adjusted death rates for Heart disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?
 
