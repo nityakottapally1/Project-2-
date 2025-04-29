@@ -11,6 +11,7 @@
 We explored the "NCHS - Leading Causes of Death: United States" data set to understand mortality trends across the country. The data set was obtained from Data.gov, provided by the CDC's National Center for Health Statistics (NCHS) via the National Vital Statistics System. It combines information from resident death certificates in all 50 states and the District of Columbia from 1999 to 2017 and conforms to ICD-10 criteria for cause-of-death coding.
 
 This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
+
 ---
 ## Data Set Columns
 
@@ -67,6 +68,7 @@ The heat maps reveal a clear trend:
 - By 2017, this dropped significantly to **237.2**, showing progress though still among the highest in the nation
 
 This consistent decline reflects both medical progress and targeted public health efforts, although regional disparities remain evident.
+
 ---
 ### Manipulations 
 For both the 1999 and 2017 map we manipulated the georgrphical heta mpa using the following actions. We used the Cause Name(a string with a general cause category) to filter for Heart Disease which was the highest Age Adjusted Death Rate in both 1999 and 2017. Futhermore we filtered for 2017 using Year. Furthermore we filtered out the overal United States using the State feature, to compare individual state rates. 
