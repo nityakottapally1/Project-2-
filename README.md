@@ -142,6 +142,7 @@ We have attached both the Graphs to the repository.
 ---
 
 ## References
+Centers for Disease Control and Prevention. (2022). *NCHS - Leading Causes of Death: United States*. [Data.gov](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)
 
 
 
