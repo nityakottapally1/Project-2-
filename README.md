@@ -7,16 +7,12 @@
 4. Nitya Kottapally - [nityakottapally1](https://github.com/nityakottapally1)
 5. Aman Sathani - [amansathani](https://github.com/amansathani)
 
-## Data Base Description 
+## Why We Picked this Database 
 We explored the "NCHS - Leading Causes of Death: United States" data set to understand mortality trends across the country. The data set was obtained from Data.gov, provided by the CDC's National Center for Health Statistics (NCHS) via the National Vital Statistics System. It combines information from resident death certificates in all 50 states and the District of Columbia from 1999 to 2017 and conforms to ICD-10 criteria for cause-of-death coding.
-
-The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhelming data set for analysis. Every row corresponds to a particular cause of death in a particular state and year, while the columns offer precise metrics. Columns are: Year (integer, e.g., 2017, data year); 113 Cause Name (string, e.g., "Malignant neoplasms (C00-C97)," specific cause with ICD-10 coding); Cause Name (string, e.g., "Cancer," a general cause category); State (string, e.g., "Mississippi" or "United States" for national values); Deaths (integer, e.g., 5,000, number of deaths due to that cause); and Age-adjusted Death Rate (float, e.g., 165.0, death rate per 100,000 population, adjusted using the 2000 and 2010 U.S. census data to make equitable comparisons across populations and over time).
 
 This data enables us to call attention to significant health issues, including Heart disease and Cancer, and enables data-driven decision-making through uncovering mortality trends. Our aim was to develop an interactive Tableau dashboard that visualizes these trends so that insights such as the leading causes of death in 2017 would be more accessible. With a total of almost 113,000 records spanning 19 years, the data offers a strong basis for exploring U.S. mortality trends.
 
-## NCHS - Leading Causes of Death: United States Dataset Columns
-
-The following table describes the columns in the "NCHS - Leading Causes of Death: United States" dataset used for analyzing Heart disease death rates.
+## Data Set Columns
 
 | Column Name              | Data Type | Description                                                                                       |
 |--------------------------|-----------|---------------------------------------------------------------------------------------------------|
@@ -28,6 +24,7 @@ The following table describes the columns in the "NCHS - Leading Causes of Death
 | Age-adjusted Death Rate | Float     | Death rate per 100,000 population, adjusted for age distribution (e.g., 277.1).                   |
 
 ### Notes
+- The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhelming data set for analysis. Every row corresponds to a particular cause of death in a particular state and year, while the columns offer precise metrics. 
 - The dataset is sourced from the National Center for Health Statistics (NCHS) and covers leading causes of death in the U.S. from 1999 to 2017.
 - This dataset was used to analyze age-adjusted death rates for Heart disease in 2017, comparing northern and southern U.S. states.
 
