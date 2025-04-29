@@ -89,7 +89,7 @@ analyzing these specific graphs  we can examine whether certain regions exhibite
 
 ---
 ### Model
-![image](https://github.com/user-attachments/assets/829c0929-8cdf-4bd5-ae1f-c782dceaadea)
+![image](https://github.com/user-attachments/assets/6dbdf8fe-acf5-4607-a95f-1c0728aaf8db)
 ---
 
 ### Importance
