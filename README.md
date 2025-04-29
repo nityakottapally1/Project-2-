@@ -122,9 +122,22 @@ To analyze the state-level mortality patterns for diabetes and heart disease acr
 ---
 
 ### Analysis
+The scatter plot demonstrates a strong positive correlation between average diabetes death rates and average heart disease death rates across U.S. states.
+States with a **higher diabetes mortality** tend to also experience **elevated heart disease mortality**, suggesting overlapping health risk factors. The linear trend line reinforces the statistical relationship, with most data points clustering near the line, indicating consistency in the pattern.
+
+This correlation may be driven by shared contributors such as:
+
+- Poor diet and nutrition
+- Obesity
+- Lack of access to preventative healthcare
+- Socioeconomic and cultural factors, especially in Southern and rural states
+
+The visual makes it clear that targeting diabetes prevention and management could also lower heart disease mortality. This supports the importance of holistic chronic disease prevention strategies at the state level.
 
 ---
 ### Tableau Package 
+
+We have attached both the Graphs to the repository. 
 
 ---
 
