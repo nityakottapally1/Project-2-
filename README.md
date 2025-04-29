@@ -32,7 +32,7 @@ This data enables us to call attention to significant health issues, including H
 
 ---
 ## Question 1
-What is the overall trend in age-adjusted death rates for Heart disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?
+**What is the overall trend in age-adjusted death rates for Heart Disease by state from 1999 to 2017, and how does this trend vary regionally across the U.S.?**
 
 ### Model 
 ![image](https://github.com/user-attachments/assets/a703caa2-a910-4a02-9f63-d5aa8f835169)
