@@ -112,6 +112,12 @@ Understanding the correlation between death rates from **diabetes** and **heart 
 | Average Diabetes Rate            | `IF [Cause Name] = "Diabetes" THEN [Age-adjusted Death Rate] END`           | Filters records to include only those with "Diabetes" as the cause, then returns the corresponding age-adjusted death rate. Used to calculate the average diabetes mortality rate. |
 | Average Heart Disease Rate       | `IF [Cause Name] = "Heart disease" THEN [Age-adjusted Death Rate] END`      | Filters records to include only those with "Heart disease" as the cause, then returns the corresponding age-adjusted death rate. Used to calculate the average heart disease mortality rate. |
 
+To analyze the state-level mortality patterns for diabetes and heart disease across the US, we created a scatter plot to convey our information. 
+- **Measures used:** We used the average Diabetes Rate (calculated field that filters the cause to diabetes and then has the age adjusted death rate included)  as the X-axis and the average Heart Disease Rate (calculated field that filters the cause to heart disease and then has the age adjusted death rate included) 
+- **State-Level Focus:** We filtered out the “United States” entity to ensure that each data point represents a state/territory.
+- **Marks:** We added State to the Color mark to make it obvious that there were multiple states involved and easily identifiable as they are all different colors. 
+- **Trend Line:** We added a linear regression trend line from the analytics panel to evaluate the correlation between the two death rates. 
+- **Filter Options:** Earlier to developing the final sheet, we used Cause Name and Year filters to isolate the specific causes we were looking at to ensure we had relevant and consistent data. 
 
 ---
 
