@@ -135,6 +135,15 @@ This correlation may be driven by shared contributors such as:
 The visual makes it clear that targeting diabetes prevention and management could also lower heart disease mortality. This supports the importance of holistic chronic disease prevention strategies at the state level.
 
 ---
+
+## Key Insights
+
+- Our first question led us to understand that Heart disease death rates have **decreased significantly** from 1999 to 2017 across most states.
+- **Southern states** continue to lag, with higher mortality rates than the national average.
+- A **positive correlation** exists between diabetes and heart disease death rates, emphasizing the need for coordinated public health efforts.
+
+---
+
 ### Tableau Package 
 
 We have attached both the Graphs to the repository. 
