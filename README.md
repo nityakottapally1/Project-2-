@@ -87,7 +87,6 @@ analyzing these specific graphs  we can examine whether certain regions exhibite
 **Is there a statistically significant correlation between death rates from diabetes and heart disease across states with the highest mortality for each?**
 
 ### Model
-![Heart vs Diabetes Correlation Plot](images/diabetes_heart_scatter.png)
 
 ---
 
