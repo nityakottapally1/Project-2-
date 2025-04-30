@@ -19,8 +19,6 @@ Our decision was guided by the following motivations:
 - To **enable data-driven analysis** by uncovering mortality trends over time.
 - To **create an interactive Tableau dashboard** that helps visualize key insights, such as the leading causes of death in 2017.
 
-With nearly **113,000 records spanning 19 years**, this dataset offers a robust foundation for understanding how causes of death have evolved nationwide. Ultimately, our goal was to make these insights more accessible and actionable for public health discussions and decision-making.
-
 
 ---
 ## Data Set Columns
@@ -35,7 +33,7 @@ With nearly **113,000 records spanning 19 years**, this dataset offers a robust 
 | Age-adjusted Death Rate | Float     | Death rate per 100,000 population, adjusted for age distribution (e.g., 277.1).                   |
 
 ### Notes
-- The data set has 6,864 rows and 6 columns, thus making it a rich but not overwhelming data set for analysis. Every row corresponds to a particular cause of death in a particular state and year, while the columns offer precise metrics. 
+- The data set has 10,868 rows and 6 columns, thus making it a rich but not overwhelming data set for analysis. Every row corresponds to a particular cause of death in a particular state and year, while the columns offer precise metrics. 
 - This dataset was used to analyze age-adjusted death rates for Heart disease in 2017, comparing northern and southern U.S. states.
 
 
